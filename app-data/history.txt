@@ -1,0 +1,2 @@
+#V2
+(contract-call? .upgraded-app upgraded-user-info .data u0)

@@ -1,0 +1,6 @@
+#V2
+(contract-call? .app get-random-number u100)
+::advance_chain_tip 1
+(contract-call? .app get-random-number u100)
+(contract-call? .app get-random-number u250)
+(contract-call? .app get-random-number u31)

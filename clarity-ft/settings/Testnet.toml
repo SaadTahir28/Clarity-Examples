@@ -1,0 +1,6 @@
+[network]
+name = "testnet"
+node_rpc_address = "https://stacks-node-api.testnet.stacks.co"
+
+[accounts.deployer]
+mnemonic = "dinner begin come food group skull bounce need spray axis style identify major remember above extra wasp any bid youth slice erode champion trouble"

@@ -1,0 +1,8 @@
+[project]
+name = "buff-uint-conversion"
+requirements = []
+costs_version = 1
+
+[contracts.conversion]
+path = "contracts/conversion.clar"
+depends_on = []
